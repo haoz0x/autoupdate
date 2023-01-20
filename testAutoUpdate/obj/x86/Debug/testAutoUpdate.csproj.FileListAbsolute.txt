@@ -1,0 +1,13 @@
+D:\WorkSpace\hao0xCode\autoupdate\Out\Debug\UpdateList.xml
+D:\WorkSpace\hao0xCode\autoupdate\Out\Debug\testAutoUpdate.exe.config
+D:\WorkSpace\hao0xCode\autoupdate\Out\Debug\testAutoUpdate.exe
+D:\WorkSpace\hao0xCode\autoupdate\Out\Debug\testAutoUpdate.pdb
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.csproj.AssemblyReference.cache
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.frmtestUpdate.resources
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.Properties.Resources.resources
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.csproj.GenerateResource.cache
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.csproj.CoreCompileInputs.cache
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.csproj.CopyComplete
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.exe
+D:\WorkSpace\hao0xCode\autoupdate\testAutoUpdate\obj\x86\Debug\testAutoUpdate.pdb
